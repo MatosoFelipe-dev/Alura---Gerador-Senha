@@ -3,9 +3,9 @@
 :root{
     --branco: white;
     --cor-de-fundo: #87363A;
-    --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
-    --borda: #BA252D;
+    --fundo-senha: #BA2825;
+    --fundo-texto: #BA252D;
+    --borda: #EE000D;
     --old-standart: 'Old Standard TT', serif;
 }
 
