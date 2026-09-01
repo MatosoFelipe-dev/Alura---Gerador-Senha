@@ -36,7 +36,7 @@ body{
 .conteudo-senha{
     margin-top: 80px; 
     background: var(--fundo-senha);
-    padding: 24px;
+    padding: 30px;
     border-bottom: 6px solid var(--borda);
 }
 
@@ -45,7 +45,7 @@ body{
     border: none;
     color: var(--branco);
     font-family: var(--old-standart);
-    font-size: 20px;
+    font-size: 35px;
     width: 70%;
 }
 
