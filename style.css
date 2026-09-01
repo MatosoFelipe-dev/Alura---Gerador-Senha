@@ -25,7 +25,7 @@ body{
 }
 
 .titulo-secundario{
-    font-size: 24px;
+    font-size: 30px;
 }
 
 .conteudo-titulo{
@@ -127,14 +127,14 @@ label{
 }
 .fraca{
     width: 25%;
-    background-color: #E71B32; 
+    background-color: #ED4D58; 
 }
 .media{
-    background-color: #FAF408;
+    background-color: #EDE94C;
     width: 50%;
 }
 .forte{
-    background-color: #00FF85;
+    background-color: #4CB5ED;
     width: 100%;
 }
 
