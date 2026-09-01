@@ -2,10 +2,10 @@
 
 :root{
     --branco: white;
-    --cor-de-fundo: #541212;
-    --fundo-senha: #873737;
-    --fundo-texto: #873737;
-    --borda: #BA7272;
+    --cor-de-fundo: #022C33;
+    --fundo-senha: #134C54;
+    --fundo-texto: #134C54;
+    --borda: #3A7D87;
     --old-standart: 'Old Standard TT', serif;
 }
 
@@ -67,7 +67,7 @@ body{
 
 .parametro-titulo{
     font-family: var(--old-standart);
-    font-size: 28px;
+    font-size: 40px;
 }
 
 .parametro-senha__titulo{
