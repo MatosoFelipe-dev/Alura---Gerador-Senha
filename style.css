@@ -21,11 +21,11 @@ body{
 
 .titulo-principal{
     font-family: var(--old-standart);
-    font-size: 32px;
+    font-size: 40px;
 }
 
 .titulo-secundario{
-    font-size: 24px;
+    font-size: 32px;
 }
 
 .conteudo-titulo{
